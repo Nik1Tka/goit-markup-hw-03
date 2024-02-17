@@ -38,6 +38,7 @@ margin-bottom: 0;
     /*=== Top ===*/
 .header-pages{
     background-color: #fff;
+    border-bottom: 1px solid #e7e9fc
 }
 
 .page-header-container{
@@ -50,7 +51,7 @@ margin-bottom: 0;
     align-items: center;
 }
 .menu{
-    column-gap: 40px;
+    gap: 40px;
     display: flex;
 }
 .menu-nav{
@@ -187,6 +188,7 @@ font-family: "Roboto", sans-serif;
 .team{
     background-color: #f4f4fd;
     display: flex;
+    padding: 120px 0;
 }
 .team-title{
     font-family: "Roboto", sans-serif;
@@ -283,7 +285,6 @@ width: calc((100% - 48px) / 3);
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-        margin-top: 16px;
         max-width: 264px;
 }
 .foot-log{
@@ -294,6 +295,8 @@ width: calc((100% - 48px) / 3);
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        margin-bottom: 16px;
+        display: inline-block;
 }
 .foot-text{
 font-family: "Raleway", sans-serif;
