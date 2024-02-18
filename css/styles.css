@@ -48,6 +48,8 @@ p {
 .page-header-container {
   display: flex;
   align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .page-nav {
@@ -81,6 +83,7 @@ p {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
+  display: block;
 }
 
 .hero {
@@ -216,7 +219,6 @@ p {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 .team-list-title {
@@ -246,7 +248,6 @@ p {
 .team-list {
   display: flex;
   gap: 24px;
-  padding-bottom: 120px;
 }
 .team-list-container {
   padding: 32px 0;
@@ -262,7 +263,6 @@ p {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 .portfolio-list-title {
