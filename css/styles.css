@@ -159,6 +159,10 @@ font-family: "Roboto", sans-serif;
 }
 /*=== Our Description ===*/
 
+.description{
+    padding: 120px 0;
+}
+
 .description-title{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -184,9 +188,6 @@ font-family: "Roboto", sans-serif;
 }
 .description-list-item{
  width: calc((100% - 72px) / 4);
-}
-.title-non{
- 
 }
 /*=== Our Team ===*/
 .team{
