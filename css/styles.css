@@ -60,6 +60,7 @@ margin-bottom: 0;
 }
 .menu-info{
     display: flex;
+    gap: 40px;
 }
 .menu-info-link:hover,
 .menu-info-link:focus{
