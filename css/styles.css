@@ -217,9 +217,7 @@ width: calc((100% - 3 * 24px) / 4)
         text-align: center;
         color: #2e2f42;
         padding-top: 120px;
-        margin-bottom: 72px;
-        margin-bottom: 8px
-        
+        margin-bottom: 72px;       
 }
 .team-list-title{
     font-family: "Roboto", sans-serif;
@@ -268,7 +266,6 @@ width: calc((100% - 3 * 24px) / 4)
         color: #2e2f42;
         padding-top: 120px;
         margin-bottom: 72px;
-        margin-bottom: 8px;
 }
 .portfolio-list-title{
 font-family: "Roboto", sans-serif;
