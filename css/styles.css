@@ -187,7 +187,7 @@ font-family: "Roboto", sans-serif;
     padding-bottom: 120px;
 }
 .description-list-item{
-width: calc((100%-3*24px) /4);
+width: calc((100%-3*24px)/4);
 }
 .visually-hidden{
     position: absolute;
