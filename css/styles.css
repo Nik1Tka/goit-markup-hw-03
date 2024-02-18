@@ -250,7 +250,7 @@ width: calc((100% - 3 * 24px) / 4)
     gap: 24px;
     padding-bottom: 120px;
 }
-.team-conteiner{
+.team-list-container{
  padding: 32px 0;
 }
 /*=== Our Portfolio ===*/
