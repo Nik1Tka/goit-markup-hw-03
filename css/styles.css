@@ -44,7 +44,6 @@ margin-bottom: 0;
 .page-header-container{
     display: flex;
    align-items: center;
-padding: 24px 0;
 }
 
 .page-nav{
@@ -80,7 +79,7 @@ display: block;
 }
 
 .menu-item{
-   
+padding: 24px 0;
 }
 .hero{
     background: #2e2f42;
@@ -167,6 +166,7 @@ font-family: "Roboto", sans-serif;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 .description-list-text{
 font-family: "Roboto", sans-serif;
@@ -186,7 +186,6 @@ font-family: "Roboto", sans-serif;
  width: calc((100% - 72px) / 4);
 }
 .title-non{
-margin-bottom: 8px;
  
 }
 /*=== Our Team ===*/
