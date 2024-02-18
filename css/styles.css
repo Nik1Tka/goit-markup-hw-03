@@ -286,7 +286,7 @@ font-family: "Roboto", sans-serif;
 .portfolio-list{
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    row-gap: 48px;
     padding-bottom: 120px;
 }
 
