@@ -53,13 +53,13 @@ margin-bottom: 0;
 .menu{
     gap: 40px;
     display: flex;
+    padding: 24px 0;
 }
 .menu-nav{
     font-style: normal;
 }
 .menu-info{
     display: flex;
-    column-gap: 40px;
 }
 .menu-info-link:hover,
 .menu-info-link:focus{
@@ -79,8 +79,7 @@ display: block;
 }
 
 .menu-item{
-    gap: 40px;
-    padding: 24px 0;
+   
 }
 .hero{
     background: #2e2f42;
@@ -187,6 +186,7 @@ font-family: "Roboto", sans-serif;
 }
 .title-non{
 margin-bottom: 8px;
+ 
 }
 /*=== Our Team ===*/
 .team{
